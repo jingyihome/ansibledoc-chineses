@@ -26,6 +26,6 @@ pip install sphinx==1.4.8 sphinx_rtd_theme
 
 ##Build
 
-https://github.com/jingyihome/ansibledoc-chineses.git
+git clone https://github.com/jingyihome/ansibledoc-chineses.git
 cd ansibledoc-chineses
 make html
