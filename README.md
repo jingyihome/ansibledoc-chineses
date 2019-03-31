@@ -30,3 +30,6 @@ git clone https://github.com/jingyihome/ansibledoc-chineses.git
 cd ansibledoc-chineses
 make html
 ```
+## 演示站点：
+[http://www.diewufeiyang.com/ansible/cn/index.html](http://www.diewufeiyang.com/ansible/cn/index.html)
+[http://www.diewufeiyang.com/ansible/en/index.html](http://www.diewufeiyang.com/ansible/en/index.html)
