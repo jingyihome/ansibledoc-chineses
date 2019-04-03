@@ -4,7 +4,7 @@
 
 [https://docs.ansible.com/ansible/index.html](https://docs.ansible.com/ansible/index.html)
 
-## 原项目地址:
+## 来源项目地址:
 
 [https://github.com/stanleylst/ansible-tran/](https://github.com/stanleylst/ansible-tran/)
 
